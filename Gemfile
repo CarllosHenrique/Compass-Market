@@ -18,7 +18,7 @@ gem "turbo-rails"
 
 gem "stimulus-rails"
 
-gem 'devise'
+gem 'devise', github: 'heartcombo/devise', branch: 'main'
 
 gem 'rubocop-rails', require: false
 
